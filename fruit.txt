@@ -3,3 +3,5 @@ mango
 orange
 melon
 blueberry
+grape
+strawberry
